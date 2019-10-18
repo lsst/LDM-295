@@ -1,13 +1,13 @@
-.. image:: https://img.shields.io/badge/ldm--295-lsst.io-brightgreen.svg
-   :target: https://ldm-295.lsst.io
-.. image:: https://travis-ci.org/lsst/ldm-295.svg
-   :target: https://travis-ci.org/lsst/ldm-295
+.. image:: https://img.shields.io/badge/ldm--722-lsst.io-brightgreen.svg
+   :target: https://ldm-722.lsst.io
+.. image:: https://travis-ci.org/lsst/ldm-722.svg
+   :target: https://travis-ci.org/lsst/ldm-722
 
 #######################
 DM provenance review WG
 #######################
 
-LDM-295
+LDM-722
 -------
 
 As actioned at DMLT F2F this note is to set up a review of proveneance. 
@@ -16,8 +16,8 @@ To compile this document you need to have set up  lsst-texmf see  http:\\lsst-te
 **Links**
 
 
-- Live drafts: https://ldm-295.lsst.io
-- GitHub: https://github.com/lsst/ldm-295
+- Live drafts: https://ldm-722.lsst.io
+- GitHub: https://github.com/lsst/ldm-722
 
 ****
 
