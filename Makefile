@@ -21,7 +21,7 @@ acronyms.tex :$(tex) myacronyms.txt
 
 aglossary.tex :$(tex) myacronyms.txt
 	generateAcronyms.py  -g $(tex)
-	generateAcronyms.py  -g -u $(tex) aglossary.tex
+	#generateAcronyms.py  -g -u $(tex) aglossary.tex
 
 clean :
 	latexmk -c
